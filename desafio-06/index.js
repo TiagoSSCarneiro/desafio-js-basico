@@ -18,7 +18,7 @@ let resultadoSub = subtrair(10,5)
 console.log('Resultado da subtração é: '+resultadoSub)
 
 let resultadoMultiplicar = multiplicar(10,5)
-console.log('Resultado da multiplicção é: '+ resultadoMultiplicar)
+console.log('Resultado da multiplicação é: '+ resultadoMultiplicar)
 
 let resultadoDivisao = dividir(10,5)
-console.log('O resultado da divisão é: ' +resultadoDivisao)
+console.log('Resultado da divisão é: ' +resultadoDivisao)
